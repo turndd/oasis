@@ -987,7 +987,7 @@ public class MyResource {
 			arrOfArrEmployee.add(tmpInActive);
 		}
 		return arrOfArrEmployee;
-		// print(arrOfArrEmployee);
+		// print(arrOfArrEmployee); 
 	}
 
 	private String buildJson(ArrayList<ArrayList<Employee>> employee, int checkL, boolean search) {
